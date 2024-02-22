@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: top_customers_for_focus_stores
+    description: "Shows the top customers across the stores the business wants to focus on"

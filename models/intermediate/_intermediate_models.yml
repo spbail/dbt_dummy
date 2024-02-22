@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: int_customer_revenue_by_date
+  - name: int_focus_stores

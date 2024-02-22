@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: stg_payment
+    description: "Staging model consisting of payment events"
+    columns:
+      - name: payment_id
+      - name: customer_id
+      - name: amount
+
+  - name: stg_customer
+    description: "Staging model consisting of customer information"
+    columns:
+      - name: customer_id
+      - name: first_name
+      - name: last_name
+      - name: email
+      - name: store_id
