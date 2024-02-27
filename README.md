@@ -1,2 +1,2 @@
-# bubble_interview_dbt
-Bubble interview dbt project
+# dbt_dummy
+dummy dbt project
